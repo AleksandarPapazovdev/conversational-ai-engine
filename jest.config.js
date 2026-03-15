@@ -1,7 +1,0 @@
-# Auto-generated file for vim-repl
-
-// Touch: 1763511549
-
-// Touch: 1763511550
-
-// Touch: 1763511550
